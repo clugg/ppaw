@@ -1,6 +1,6 @@
-# PSPAW: The Python Pastebin API Wrapper.
+# PPAW: The Python Pastebin API Wrapper.
 
-PPAW, an acronym for "Python Pastebin API Wrapper", is a Python package that allows for simple access to Pastebin's API. PSPAW aims to be as easy to use as possible and is developed based on official documentation [found here](http://pastebin.com/api).
+PPAW, an acronym for "Python Pastebin API Wrapper", is a Python package that allows for simple access to Pastebin's API. PPAW aims to be as easy to use as possible and is developed based on official documentation [found here](http://pastebin.com/api).
 
 ## Documentation
 
@@ -9,7 +9,7 @@ PPAW, an acronym for "Python Pastebin API Wrapper", is a Python package that all
 PPAW can be imported in a number of ways due to how the package is structued.
 
 * `import ppaw` will allow PPAW's main features to be accessed via `ppaw.pastebin.Pastebin`
-* `from ppaw import pastebin` will allow PSPAW's main features to be accessed via `pastebin.Pastebin`
+* `from ppaw import pastebin` will allow PPAW's main features to be accessed via `pastebin.Pastebin`
 
 For the sake of the usage guide we will be using `import ppaw`.
 
