@@ -2,6 +2,13 @@
 
 PPAW, an acronym for "Python Pastebin API Wrapper", is a Python package that allows for simple access to Pastebin's API. PPAW aims to be as easy to use as possible and is developed based on official documentation [found here](http://pastebin.com/api).
 
+## Prerequisites
+
+* Python 2.7+ or Python 3.0+
+* [python-requests](https://requests.kennethreitz.org/)
+
+A compatible version of `python-requests` can be installed via `$ pip install -r requirements.txt`.
+
 ## Documentation
 
 ### Importing
